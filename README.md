@@ -13,4 +13,4 @@ To run:
 python src/hw10_script.py config/config_file > output/output
 ```
 
-HW10 OF LING572
+HW9 OF LING572 (03/08/2022)
