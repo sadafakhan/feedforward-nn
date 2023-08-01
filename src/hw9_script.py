@@ -1,8 +1,4 @@
 #!/usr/bin/env python2
-"""Neural net training & testing code for LING 572 HW 10 
-USAGE: python hw10_script.py config_file""" 
-
-
 import network
 import newsgroup_loader
 import numpy as np
